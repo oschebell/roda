@@ -1,7 +1,10 @@
 require "roda"
 
 
+
+
 class Myapp < Roda
+
   plugin :static, ["/images", "/css", "/js"]
   plugin :render
   plugin :head
