@@ -4,12 +4,22 @@
   }
 
   h3 {
-    color: #2194dd
+    color: #2194dd;
+
   }
 
   h4 {
-    color: #47aeef
+    color: #47aeef;
   }
   body {
     padding-bottom: 3%;
   }
+
+
+
+ .imgur-embed-pub {
+   width: 300px;
+   padding: 25px;
+   border: 25px solid navy;
+   margin: 25px;
+ }
